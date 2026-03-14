@@ -1,0 +1,13 @@
+[project]
+name = "python-for-data-science"
+version = "0.1.0"
+description = "สรุปเนื้อหาและแบบฝึกหัดจากคอร์ส Python for Data Science, AI & Development"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "requests>=2.32.5",
+]
